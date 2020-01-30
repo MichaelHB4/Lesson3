@@ -1,13 +1,6 @@
 
-html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, variable, form, fieldset, blockquote {
-    padding: 0;
-    margin: 0;
-    font-size: 100%;
-    font-weight: normal;
-   }
-   
    body {
-     color: #bac;
+     color: rgb(172, 137, 207);
      background: black;
      font-family: 'Montserrat', sans-serif;
      max-width: 800px;
@@ -16,12 +9,14 @@ html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, variable,
    h1{
      font-size: 5em;
      color: White;
-     margin-bottom: 5px;
+     background-color: rgb(172, 137, 207);
+     padding:10px;
+     margin:150px;
    }
    h2 {
      font-size: 2em;
-     color: grey;
-     text-shadow: 2px 2px 2px white;
+     color: white;
+     text-shadow: 3px 3px 3px rgb(172, 137, 207);
      font-family: 'Sigmar One', cursive;
    }
    img {
