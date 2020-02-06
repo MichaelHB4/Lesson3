@@ -1,0 +1,65 @@
+html{
+  background:black;
+}
+  body {
+     color: rgb(172, 137, 207);
+     background: white;
+     font-family: 'Montserrat', sans-serif;
+     max-width: 900px;
+     margin: 0 auto;
+     
+   }
+  header h2{
+    text-align: right;
+    padding-right: 10px;
+  }
+  header p {
+    margin: 0 0 0 200px;
+    text-align: right;
+    padding-right: 10px;
+  }
+   h1{
+     font-size: 5em;
+     color: White;
+     background-color: rgb(172, 137, 207);
+     padding:10px;
+     margin:150px;
+     
+   }
+   h2 {
+     font-size: 2em;
+     color: rgb(172, 137, 207);
+     text-shadow: 3px 3px 6px rgb(0, 0, 0);
+     font-family: 'Sigmar One', cursive;
+     padding-left: 10px;
+     padding-right: 10px;
+   }
+   h3 {
+     color:rgb(131, 85, 177);
+     text-shadow: 1px 1px 1px white;
+     padding-left: 10px;
+   }
+   img {
+    border: 5%;
+    height: 300px;
+    padding: 10px;
+  }
+  section{
+    text-align: right;
+    padding-right: 10px;
+    
+  }
+  .projects{
+    text-align: left;
+    padding-left: 10px;
+  }
+  footer {
+    padding-left: 10px;
+    padding-bottom: 20px;
+  }
+  
+
+  
+
+
+  
