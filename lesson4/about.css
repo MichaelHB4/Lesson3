@@ -24,7 +24,7 @@ html{
      background-color: rgb(172, 137, 207);
      padding:10px;
      margin:150px;
-     
+     float: left;
    }
    h2 {
      font-size: 2em;
